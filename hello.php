@@ -1,3 +1,3 @@
-<?php
-echo "Hello World!\n";
+#!/usr/bin/env php
+<?php echo "Hello World!\n";
 
