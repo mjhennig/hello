@@ -1,0 +1,4 @@
+#!/usr/bin/bc -q
+"Hello World!
+"
+quit
