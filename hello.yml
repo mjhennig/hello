@@ -1,0 +1,8 @@
+#!/usr/bin/ansible-playbook
+---
+- hosts:
+    - localhost
+  vars:
+    ansible_connection: local
+  tasks:
+    - debug: msg="Hello World!"
